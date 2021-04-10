@@ -1,0 +1,3 @@
+python AugmentedPenSetup.py
+python NoiseFiltering.py
+python AugmentedObjectRecognization.py
